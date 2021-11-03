@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td style="width:70%;"><p align="justify">Esta é a ferramenta Coretec Tools Concreto Protendido. Aqui você irá encontrar simuladores de estruturas de concreto protendido.</p></td>
+<td style="width:70%;"><p align="justify">Está é a calculadora Coretec Tools Concreto Protendido. É uma ferramenta voltada ao estudo de peças protendidas sejam elas pré-fabricadas ou não. Esta calculadora conta com sistemas para cálculo de perda de protensão dimensionamento e detalhamento de vigas de concreto em concreto protendido.</p></td>
 <td style="width:30%;"><img src="logo.png"/></td>  
 </tr>
 </table>  
