@@ -1,6 +1,6 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=default'></script>
 
-<h1>Concreto Protendido: Atrito</h1>
+<h1>Concreto Protendido: Perda por atrito</h1>
 
 <p align="justify">A calculadora Atrito do módulo Concreto Protendido efetua o cálculo das perdas de protensão por atrito, em uma única seção, segundo as prescrições da NBR 6118.<br>
 <br>
