@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## CONCRETO PROTENDIDO
+### _Uma tecnologia Coretec Tools_
 
-You can use the [editor on GitHub](https://github.com/Coretectools/Manual_CT_Concreto_Protendido/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+> Autores:
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)
+- [Profa. Luanna Lopes Lobato](http://lattes.cnpq.br/4980327889869289)
+- [Prof. Thiago Jabur Bittar](http://lattes.cnpq.br/9281027127027716)
+- [Walter Albergaria Junior]()
+- [Carlos Magno Silva Carneiro]()
+- [Walfrido Valle]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Seja bem vindo a plataforma Concreto Protentido que é uma ferramenta educacional 4.0 para ensino e aprendizagem de estruturas de concreto protendido. Essa ferramenta é mais uma das inovações desenvolvidas pelo Grupo de Pesquisas e Estudos em Engenharia (GPEE) da Universidade Federal de Catalão (UFCAT). O projeto de pesquisa que dá base para esse _software_ é o projeto PI02801-2018: DESENVOLVIMENTO DE UMA PLATAFORMA MULTIDISCIPLINAR DE TRABALHO VOLTADA A ENGENHARIA atualmente coordenado pelo [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114). 
 
-### Markdown
+Aqui vocês poderá ter acesso a relatórios de cálculo de peças de concreto protendido como também manipular as entradas de dados para desenvolver o seu próprio projeto em concreto protendido.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Caso ainda não conheça nossa plataforma clique no _link_ abaixo:
 
-```markdown
-Syntax highlighted code block
+[Plataforma Coretec Tools](www.coretectools.com.br)
 
-# Header 1
-## Header 2
-### Header 3
+Para entrar em contato com nosso time: _coretectools@gmail.com_
 
-- Bulleted
-- List
+Caso já seja usuário e deseja aprender um pouco mais em como usar clique na calculadora desejada:
 
-1. Numbered
-2. List
+> Ferramentas para perdas de protensão
+1. [Atrito](https://coretectools.github.io/CT-Concreto-Protendido/atrito.html)
+2. [Deformação na ancoragem por escorregamento]() 
+3. [Deformação inicial]()
+4. [Fluência no concreto]()
+5. [Relaxação do aço]()
+6. [retração do concreto]()
 
-**Bold** and _Italic_ and `Code` text
+> Flexão Normal Simples **Em desenvolvimento**
+1. [FNS seções retangulares e Tê com armadura ativa]()
+2. [FNS seções retangulares e Tê com armadura ativa + passiva]()
 
-[Link](url) and ![Image](src)
-```
+> Cisalhamento **Em desenvolvimento**
+1. [Armadura em vigas]()
+2. [Armadura em pilares]()
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Coretectools/Manual_CT_Concreto_Protendido/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
