@@ -18,5 +18,6 @@ _**Desenvolvedores**_
 _**Sumário**_  
 1.0 - Calculadoras  
 1.1 - [Concreto Protendido: Atrito](https://wmpjrufg.github.io/Concreto-Protendido-Manual/CTCP0001ATRITO.html)   
+1.2 - [Concreto Protendido: Atrito](https://wmpjrufg.github.io/Concreto-Protendido-Manual/CTCP0002ESCORR.html)   
 
 <p align="justify">Qualquer sugestão ou relatório de erro no funcionamento da ferramenta, por favor nos informe por e-mail: <b><i>wanderlei_junior@ufcat.edu.br</i></b>. Teremos o maior prazer em melhorar a plataforma.</p>
